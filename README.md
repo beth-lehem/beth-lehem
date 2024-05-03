@@ -1,4 +1,4 @@
-👋🏾 Hi there,
+### 👋🏾 Hi there,
 
 I'm Lehem, a software engineering student at Carleton University in Ottawa, Canada, diving deep into the world of code and creativity.👩🏾‍💻 
 
