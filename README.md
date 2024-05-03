@@ -6,7 +6,7 @@ Hi, I’m Lehem 👋🏾👩🏾‍💻
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
-![Lehem's GitHub stats](https://github-readme-stats.vercel.app/api?username=beth-lehem&show_icons=true&theme=kacho_ga)
+![Lehem's GitHub stats](https://github-readme-stats.vercel.app/api?username=beth-lehem&show_icons=true&theme=onedark)
 <!---
 beth-lehem/beth-lehem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
